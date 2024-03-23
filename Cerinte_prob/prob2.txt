@@ -1,0 +1,7 @@
+Se citeste un numar natural n si apoi un vector a cu n elemente naturale. Stergeti din vectorul a toate aparitiile elementului minim
+Se vor scrie si folosi functii recursive pentru urmatoarele operatii:
+- citirea celor n elemente ale vectorului a
+- afisare celor n elemente ale vectorului a
+- gasirea elementului minim al vectorului
+- stergerea elementului de la o pozitie i dintr-un vector
+- stergerea tuturor aparitiilor elementului minim

@@ -1,0 +1,4 @@
+Se citeste un vector a cu n elemente numere intregi. Construiti si afisati doi vectori b si c contruiti astfel:
+- vectorul b contine elementele pare din vectorul a
+- vectorul c contine elementele impare din vectorul a
+Se vor folosi functii recursive pentru citire si afisare, precum si pentru construirea celor doi vectori ceruti.

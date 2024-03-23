@@ -1,0 +1,2 @@
+Se citesc de pe prima linie numerele n si k, iar pe a doua linie n numere naturale separate prin spatii. Sa se determine o secventa de elemente de lungime k cu suma elementelor maxima si sa se afiseze in fisierul secvk.out.
+Se cer doua solutii: una cu ordinul de complexitate n si cea de a doua cu ordinul de complexitate n patrat.

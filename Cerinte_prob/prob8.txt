@@ -1,0 +1,1 @@
+Se dau doua siruri, cu n, respectiv m, elemente, numere naturale. Primul sir este ordonat crescator, iar al doilea sir este ordonat descrescator. Sa se afiseze, in ordine crescatoare, valorile pare din cele doua siruri.

@@ -1,0 +1,4 @@
+O rama se misca in spirala in sens invers trigonometric intr-o zona dreptunghiulara, intrand si iesind din pamant. Deplasarea ramei se face alternativ in pamant si la suprafata.
+La intalnirea unei gropi rama intra in pamant daca era la suprafata si iese la suprafata daca era in pamant. Din fisierul rama.in se citeste configuratia zonei dreptunghiulare in care rama porneste din coordonatele (1,1). 
+Gropile sunt repezentate prin valoarea 0, iar restul fiind valoarea 1.
+Afisati numarul de gropi prin care rama va iesi la suprafata si coordonatele acestora.

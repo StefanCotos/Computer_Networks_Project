@@ -1,0 +1,2 @@
+Se dau un numar n si apoi n numere naturale. Stergeti in mod repetat cate doua numere alaturate egale si afisati in fisierul date.out numarul de stergeri efectuate, precum si numerele ramase.
+Folositi un algoritm eficient ca timp de executie.

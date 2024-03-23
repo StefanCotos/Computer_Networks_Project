@@ -1,0 +1,1 @@
+Se citeste un numar n mai mic decat 2000000000 si apoi se citesc n numere naturale. Afisati in fisierul lungime.out lungimea celei mai lungi secvente din numerele citite care are proprietatea ca incepe si se termina cu aceeasi valoare si nu mai contine acea valoare (inafara de primul si ultimul element al secventei).

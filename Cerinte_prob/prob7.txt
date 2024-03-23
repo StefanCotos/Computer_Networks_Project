@@ -1,0 +1,1 @@
+Se citeste un numar natural n si apoi se citesc n numere naturale cu cel mult 2 cifre fiecare. Afisati in fisierul date.out lungimea celei mai lungi secvente din numerele citite care are proprietatea ca incepe si se termina cu aceeasi valoare.
